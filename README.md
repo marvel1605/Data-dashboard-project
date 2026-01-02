@@ -1,4 +1,3 @@
-# Marvel-demo
-First git repository
-<br>
-Author- Marvel (Jack patel)
+# Marvel Patel
+Data dashboard project repository
+
